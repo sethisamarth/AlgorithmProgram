@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\BinarySearchProblem\BinarySearchProblem\bin\Debug\netcoreapp3.1\BinarySearchProblem.exe
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\BinarySearchProblem\BinarySearchProblem\bin\Debug\netcoreapp3.1\BinarySearchProblem.deps.json
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\BinarySearchProblem\BinarySearchProblem\bin\Debug\netcoreapp3.1\BinarySearchProblem.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\BinarySearchProblem\BinarySearchProblem\bin\Debug\netcoreapp3.1\BinarySearchProblem.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\BinarySearchProblem\BinarySearchProblem\bin\Debug\netcoreapp3.1\BinarySearchProblem.dll
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\BinarySearchProblem\BinarySearchProblem\bin\Debug\netcoreapp3.1\BinarySearchProblem.pdb
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\BinarySearchProblem\BinarySearchProblem\obj\Debug\netcoreapp3.1\BinarySearchProblem.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\BinarySearchProblem\BinarySearchProblem\obj\Debug\netcoreapp3.1\BinarySearchProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\BinarySearchProblem\BinarySearchProblem\obj\Debug\netcoreapp3.1\BinarySearchProblem.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\BinarySearchProblem\BinarySearchProblem\obj\Debug\netcoreapp3.1\BinarySearchProblem.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\BinarySearchProblem\BinarySearchProblem\obj\Debug\netcoreapp3.1\BinarySearchProblem.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\BinarySearchProblem\BinarySearchProblem\obj\Debug\netcoreapp3.1\BinarySearchProblem.dll
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\BinarySearchProblem\BinarySearchProblem\obj\Debug\netcoreapp3.1\BinarySearchProblem.pdb
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\BinarySearchProblem\BinarySearchProblem\obj\Debug\netcoreapp3.1\BinarySearchProblem.genruntimeconfig.cache
