@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\BubbleSortProblem\BubbleSortProblem\bin\Debug\netcoreapp3.1\BubbleSortProblem.exe
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\BubbleSortProblem\BubbleSortProblem\bin\Debug\netcoreapp3.1\BubbleSortProblem.deps.json
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\BubbleSortProblem\BubbleSortProblem\bin\Debug\netcoreapp3.1\BubbleSortProblem.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\BubbleSortProblem\BubbleSortProblem\bin\Debug\netcoreapp3.1\BubbleSortProblem.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\BubbleSortProblem\BubbleSortProblem\bin\Debug\netcoreapp3.1\BubbleSortProblem.dll
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\BubbleSortProblem\BubbleSortProblem\bin\Debug\netcoreapp3.1\BubbleSortProblem.pdb
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\BubbleSortProblem\BubbleSortProblem\obj\Debug\netcoreapp3.1\BubbleSortProblem.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\BubbleSortProblem\BubbleSortProblem\obj\Debug\netcoreapp3.1\BubbleSortProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\BubbleSortProblem\BubbleSortProblem\obj\Debug\netcoreapp3.1\BubbleSortProblem.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\BubbleSortProblem\BubbleSortProblem\obj\Debug\netcoreapp3.1\BubbleSortProblem.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\BubbleSortProblem\BubbleSortProblem\obj\Debug\netcoreapp3.1\BubbleSortProblem.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\BubbleSortProblem\BubbleSortProblem\obj\Debug\netcoreapp3.1\BubbleSortProblem.dll
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\BubbleSortProblem\BubbleSortProblem\obj\Debug\netcoreapp3.1\BubbleSortProblem.pdb
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\BubbleSortProblem\BubbleSortProblem\obj\Debug\netcoreapp3.1\BubbleSortProblem.genruntimeconfig.cache
