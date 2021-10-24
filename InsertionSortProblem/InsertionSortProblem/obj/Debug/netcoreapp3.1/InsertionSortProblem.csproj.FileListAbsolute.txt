@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\InsertionSortProblem\InsertionSortProblem\bin\Debug\netcoreapp3.1\InsertionSortProblem.exe
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\InsertionSortProblem\InsertionSortProblem\bin\Debug\netcoreapp3.1\InsertionSortProblem.deps.json
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\InsertionSortProblem\InsertionSortProblem\bin\Debug\netcoreapp3.1\InsertionSortProblem.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\InsertionSortProblem\InsertionSortProblem\bin\Debug\netcoreapp3.1\InsertionSortProblem.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\InsertionSortProblem\InsertionSortProblem\bin\Debug\netcoreapp3.1\InsertionSortProblem.dll
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\InsertionSortProblem\InsertionSortProblem\bin\Debug\netcoreapp3.1\InsertionSortProblem.pdb
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\InsertionSortProblem\InsertionSortProblem\obj\Debug\netcoreapp3.1\InsertionSortProblem.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\InsertionSortProblem\InsertionSortProblem\obj\Debug\netcoreapp3.1\InsertionSortProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\InsertionSortProblem\InsertionSortProblem\obj\Debug\netcoreapp3.1\InsertionSortProblem.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\InsertionSortProblem\InsertionSortProblem\obj\Debug\netcoreapp3.1\InsertionSortProblem.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\InsertionSortProblem\InsertionSortProblem\obj\Debug\netcoreapp3.1\InsertionSortProblem.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\InsertionSortProblem\InsertionSortProblem\obj\Debug\netcoreapp3.1\InsertionSortProblem.dll
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\InsertionSortProblem\InsertionSortProblem\obj\Debug\netcoreapp3.1\InsertionSortProblem.pdb
+C:\Users\Lenovo\Desktop\Algorithm Programs  problems\InsertionSortProblem\InsertionSortProblem\obj\Debug\netcoreapp3.1\InsertionSortProblem.genruntimeconfig.cache
